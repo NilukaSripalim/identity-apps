@@ -637,9 +637,9 @@
         <carbon.extension.identity.authenticator.version>3.0.0</carbon.extension.identity.authenticator.version>
         <org.wso2.carbon.identity.association.account>5.1.5</org.wso2.carbon.identity.association.account>
         <identity.extension.utils>1.0.8</identity.extension.utils>
-        <carbon.identity.framework.version>5.18.201</carbon.identity.framework.version>
+        <carbon.identity.framework.version>5.18.245</carbon.identity.framework.version>
         <carbon.identity.framework.imp.pkg.version.range>[5.0.0, 6.0.0)</carbon.identity.framework.imp.pkg.version.range>
-        <carbon.identity.oauth.version>6.4.98</carbon.identity.oauth.version>
+        <carbon.identity.oauth.version>6.4.174</carbon.identity.oauth.version>
         <carbon.identity.oauth.imp.pkg.version.range>[6.1.0, 7.0.0)</carbon.identity.oauth.imp.pkg.version.range>
         <identity.governance.version>1.4.16</identity.governance.version>
 
@@ -663,6 +663,6 @@
         <httpcore.version>4.3.3.wso2v1</httpcore.version>
         <json.wso2.version>3.0.0.wso2v1</json.wso2.version>
         <taglibs-standard-impl.version>1.2.5</taglibs-standard-impl.version>
-        <apache.tomcat-catalina.version>9.0.11</apache.tomcat-catalina.version>
+        <apache.tomcat-catalina.version>9.0.72</apache.tomcat-catalina.version>
     </properties>
 </project>
