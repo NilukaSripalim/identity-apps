@@ -31,7 +31,7 @@
     "dependencies": {
         "@wso2is/core": "^2.0.0",
         "classnames": "^2.2.6",
-        "lodash-es": "^4.17.21",
+        "lodash-es": "^4.17.23",
         "semantic-ui-react": "^2.1.3"
     },
     "devDependencies": {
